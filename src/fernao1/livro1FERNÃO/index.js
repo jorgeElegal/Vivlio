@@ -10,7 +10,7 @@ function App2() {
   
   
     <div className="App-2">
-<h1>ooooooooooooooo</h1>
+<h1>oooooooooooooooooooooooooooo</h1>
 
     </div>
     

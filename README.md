@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# Docboks
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+este é um projeto feito ultilizando React.js ( e inicializado com create react app) pela CJMstartup
 
-In the project directory, you can run:
+## sobre
 
-### `npm start`
+Feito pel CJMstartup!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### `oque é`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+O DocBoks é um projeto de biblioteca virtual privativa para instituições de ensino e pessoas interessadas, com iniciativa da CJMstartup.
 
-### `npm test`
+### ` qual o nosso objetivo?`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+O objetivo do projeto DocBoks é transformar o como crianças e adolesentes leem nas escolas ultilizando de um ambiente atrativo e facilitado para aumentar o interesse e a atenção de nossos usuarios.  
 
-### `npm run build`
+### `como funciona?`
+Os componentes do projeto DocBoks funcionam em servidores e repositorios pertencentes a CJMstartup com hospedagem terceirizada. inteiramente desenvolvido pelos participantes da CJMstartup. ultilizando de obras cedidas ao projeto e/ou de dominio publico não ferindo assim quais quer direitos intelectuais de autores ou editoras.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### ` nossos links `
+site oficial da CJMstartup: https://jorgeelegal.github.io/cjm-site/
+instagram oficial da CJMstatup: https://www.instagram.com/cjm.startup/
+github oficial da CJMstartup: https://github.com/jorgeElegal
+buy me a coffe CJMstartup: https://www.buymeacoffee.com/cjmstartupV
+Email CJMstartup: cjm.startup.gerais@gmail.com

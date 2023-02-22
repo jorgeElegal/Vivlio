@@ -1,5 +1,5 @@
 import {useState, useEffect, useRef} from 'react'
-import {BrowserRouter, Route, Routes, Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import './home.css';
 import Anuncio from "./leitura muda o mundo.png";
 
@@ -80,17 +80,17 @@ setWidth(carossel.current?.scrollWidth - carossel.current?.offsetWidth)
  dragConstraints ={{ right: 0, left: -width}}>
 
 
-<Link to="/oi" className ="img-div-slider13">
+<Link to="/FernaoCapeloGaivota/ler" className ="img-div-slider13">
 <img src={imagebooks1}alt="Texto alt" />
 </Link>
 
 
-<Link to="/oi" className ="img-div-slider13">
+<Link to="/FernaoCapeloGaivota/ler" className ="img-div-slider13">
 <img src={imagebooks2}alt="Texto alt"/>
 </Link>
 
 
-<Link to="/oi" className ="img-div-slider13">
+<Link to="/FernaoCapeloGaivota/ler" className ="img-div-slider13">
 <img src={imagebooks3}alt="Texto alt"/>
 </Link>
 
@@ -115,17 +115,17 @@ setWidth(carossel.current?.scrollWidth - carossel.current?.offsetWidth)
  dragConstraints ={{ right: 0, left: -width}}>
 
 
-<Link to="/oi" className ="img-div-slider13">
+<Link to="/FernaoCapeloGaivota/ler" className ="img-div-slider13">
 <img src={imagebooks1}alt="Texto alt" />
 </Link>
 
 
-<Link to="/oi" className ="img-div-slider13">
+<Link to="/FernaoCapeloGaivota/ler" className ="img-div-slider13">
 <img src={imagebooks2}alt="Texto alt"/>
 </Link>
 
 
-<Link to="/oi" className ="img-div-slider13">
+<Link to="/FernaoCapeloGaivota/ler" className ="img-div-slider13">
 <img src={imagebooks3}alt="Texto alt"/>
 </Link>
 
