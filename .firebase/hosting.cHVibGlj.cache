@@ -1,0 +1,158 @@
+README.md,1677075033184,58a45c0956011147e11d6556222fbf2310b1bb173cbf36e9435fa044d4dd2b8a
+package-lock.json,1677021691858,fdbd434a8a99337bfd84d1dfbfaf3f835d2549b42717154f2574f415d12f873a
+package.json,1677004107807,54eb696426d2e9647fb0033b49240293610e39470fa35cd0663888fcd6337803
+src/App.css,1677025632995,349e3881dded3bb480706b53dbed4af12101822d1d0d139d6abe46b24dc396c1
+src/App.js,1677074194197,90a87bd3866c562970a47b03cfb433a86e36e3485b08efe0e5a2630a2e2e8a29
+src/index.css,1676901630686,c6337306212919fc39e40ba2631cb6d59a0593b0510480fb3371986cc9a09e51
+src/index.js,1677023320077,9a5bcc0c357b08341d1f47ba88281a9cbb4ca40f2831f1e7dcc9e633464ec93f
+src/reportWebVitals.js,1676901630746,de17672021d0b71697e116e770812343f96a9f2be3addc82781d8dac20522b3b
+src/setupTests.js,1676901630762,854c5853bf3e38b660464a2d1cf33097d016d08cb2fdca180db8b88c2027a21c
+src/fernao1/home/home.css,1677028532532,67f8b6226db6e162c13822606f22650d48522f2a6337691faac0b723b623fb21
+src/fernao1/home/index.js,1677074147408,175737539da2d1cca19d5f9b89aff21fb729fe00ac835dc4f870fafc7e661864
+src/fernao1/home/leitura muda o mundo.png,1676730635798,905dceb4694e4e8650ef7101041c3175e910c21a0ac7738e9ed812be21194071
+src/fernao1/home/img/71BGWapQw8L.jpg,1677027901163,4c4f70356a8b9a51b704e25c307721dd8ae7f3297bd59cd0aecd5d839c178cbd
+src/fernao1/home/img/71ynUi8oFVL.jpg,1677026993162,67eb3a6df215faf736bf9bfab0c1c2e726edaf03ac37f46ad32f5cb2f1b7919a
+src/fernao1/home/img/a leitura muda o mundo.png,1676728952683,28c62fc6eea70731a0cf71b0e2f089600148c5da72d276b09ec00cbc368af1c0
+src/fernao1/home/img/app.svg,1676731275425,1902b3a8927c14e90b42392b7d5611c9ccf8f3650bc5f91175737aea9d288fd2
+src/fernao1/home/img/pexels-amar-preciado-10112951.jpg,1676925992446,f568851ff1d6881121dd73a1fdf3f4eadab15331235e6d057909272a0b5af65d
+src/fernao1/home/img/pexels-charlotte-may-5824616.jpg,1676925915965,5606e4858d062e523e47532a17e30438a755ffed0ba5e2e14f4899c5f7587a78
+src/fernao1/home/img/pexels-ling-11975602.jpg,1676926008034,2f22f9326d36cb520961282fe957b2e9c381366e0122836f6b8c1e8b76bd45ea
+src/fernao1/home/img/índice.jpeg,1677028224795,5f140014d8a186f3681f6bed0a07e390c54b13d8af36a3ddca1e5df868af5d8c
+src/fernao1/home/img/índice2.jpeg,1677028461784,557652c3de69b3f22d10ec3bf31335084b660fe1aa5d12f03e1a2178a67c4ccc
+src/fernao1/livro1FERNÃO/index.js,1677079238339,06904561f3bdb738fb2c4f3c7fa0e31e3b50267c53d0f3e47bb4a23344d886a3
+src/fernao1/livro1FERNÃO/index2.css,1677080782609,6c16844ba4dfde2ccc3afc1f8f55e1dc0f153137eba9aa3084009ac722dc4460
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-0.png,1677078326000,c229a4e8f30af3da77abffbd201948b555ffe3684dabfedb26b423521e94fb5a
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-1.png,1677078327000,6ddb89d8890a8122106fb3c2b06142fd95cc23b4ad1d51249f65a55c66062f34
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-10.png,1677078335000,36c0942d9b2bab4c7378753a4d484b364d7902062d70e199127a63728283e3d3
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-100.png,1677078422000,a00d6a607ccf2e66b49e6609e40fae9ce09a3e2b803ab0242a0ef20e486f288d
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-101.png,1677078423000,367befec7c1f502efdfe2930a18e2061b66fcf6b20dd3e30d96f4300764fac5e
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-102.png,1677078423000,6c503be84838945b76dad9064577c0d6589d8c5a363a9d79e9b17c6c4ce95e23
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-103.png,1677078425000,5451ef2f426f873043b9d60ab2ad6f692f517f1070b95464c1a2887d90e6212e
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-104.png,1677078426000,76f46ce6154ceff5e8c5b06b6eeec98f690c5a656a69a91042bebbb978a22242
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-105.png,1677078426000,2e25d63d042421d4d2c7e946711179f56ddac1184eb7839006b136ccfa9e4743
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-106.png,1677078427000,f4d70b953494a4caf7c3b82bf8f451348cb0cac7e663534864e352ce78bc28be
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-107.png,1677078428000,17979aad652bcc35b8913b9c745ba7cb0198a9dca024d34a7aa8a0f513ac1bed
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-108.png,1677078429000,57a645e33a4f36ff9425edc1b310674a3d470cfbd940e1a6f02374bbf27c4b0e
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-109.png,1677078429000,e860fd673cec1d28a429cc7cfa409c12fb61eaf5fd5fe52d72b620af3e4dff49
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-11.png,1677078336000,58f9cd4025a565f9adbc6af6d22d9524e0e1965ab1e2ea3b5092ddd186e63a54
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-110.png,1677078430000,e08c67ec3b0d3cf6c6201699846bcb6e8097eaf636c901ff902e550ace28de4e
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-111.png,1677078431000,db3c7b441d419dda8f8fc5fa9b10a82e75a7bae7ebbbdb49feb6af644e1edaa1
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-112.png,1677078431000,5d2ccdc1a3774505fe0c3f8e4f72e7d06bf0b8f9dcd53a1de2c3df26dea2d39a
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-113.png,1677078432000,194ca2acd618bdb47aa6ec79666ce2fb7901c1c563dd5816e28f2576e5c85b3e
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-114.png,1677078432000,89ffe76773b9eb8d72ddcef8d35f70bf15fbb66a6dada242a8236eb1bd4a6cb1
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-115.png,1677078433000,6ba52dced5332973981d8ccdc4926becf0e4fb0b6cc964dcb59105ebbedac702
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-116.png,1677078434000,981aecd485b8a69a7188b946b86ef5516c933f9e94e49bcaf04f70ea9e3ee148
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-117.png,1677078435000,2c08876c22e35fc67681882c703344cd012bf3107e33ade0098f3de20524693d
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-118.png,1677078435000,7075db2922864257eb3ecc98d4bfabe53e88c6145c7788d86aadae641e60e900
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-119.png,1677078436000,92025e5bca7a247038f10f125fab9652fd475a4a08c3f19ba7ea4a52984777c5
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-12.png,1677078337000,88ea7642bf27dee9c58a82a64b07fd69a28c503ed6d46c9a0635724aa3582a91
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-120.png,1677078437000,6b788edb04f75281f7c7b713635d0cc0cf7c5de1e95f32ad0ec9891bf331a5b9
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-121.png,1677078437000,4f1784a1eee800a570844a2332901cc990e878fce06586981426aa03f8da14ea
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-122.png,1677078438000,ef78a13d060499cf0ff411c9f7cbd4ddcf1e9e37f7f78b8c31fc80e145b03027
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-123.png,1677078438000,0d5536d5677ce3c273a155cfc1b67aba49007d1d080644dae81943abb6bfae0c
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-124.png,1677078439000,7cda72548608fd8bb14a7fa9e9d09cec8df152ec860cb9b66d422c58cc0cad84
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-125.png,1677078439000,93ab2aeea65c9e2676df88b4ee84e0584ac52f96543f797bc0b6440df2054fc4
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-126.png,1677078439000,daf653a62d7606ccd8f8950ed1b74d91e97d17893ae9a19819b0138bfb8ad635
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-127.png,1677078439000,d13000ece678ec2e0954d5d8de6ef572e735df34958e763a8a00715ef5cbf13b
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-128.png,1677078440000,97e456116e28a2b6863a2490baec3a76f6ca1e2531a2042b0aaad827ddd9ae3d
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-129.png,1677078440000,77ca7f491733a2f30394ee34f3dd53c6b651ec4ac6c4ef98bd624b126d0ebf20
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-13.png,1677078338000,e06bf165453d69db10cef1555ce9f09e0975130af4f77156681392ecc2386769
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-130.png,1677078440000,8f66ab71c0e6cd346546ce0adba469fecab1304153a34585cc2e4916371335ed
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-131.png,1677078442000,a59cff9990335f61aee8d18508b75310c80aee957b497174a490e622bef622cd
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-14.png,1677078338000,ff8d6494a15a37dfabe645c97f16a765cb4dd699ee36d3cb859e4e25a732f632
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-15.png,1677078339000,1141d8567a5e75b82da9db11de5e27b9bd8eb09b7a1641ece7d4728e5d71a553
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-16.png,1677078342000,46e7025f5189dfd66f510d0e0a00dc0bfce0012db9945a3a91cfbf1f45485cd1
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-17.png,1677078342000,944e2ec9d8b183b0d7b5ed9d99485932c43b06ec5c5792ef3e98fb4a73584ba1
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-18.png,1677078344000,7245e45b257a29979e0ef5b054a274866884a074b2643d102558e39b44219850
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-19.png,1677078346000,f0b8485520e08356639c1d432f0addf62c5156354e41dbbde8b77b7fa1978221
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-2.png,1677078327000,073fe4e147617b065da07fb47e6902f3d79dc44f5504bf639a898ea69be659e7
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-20.png,1677078346000,720bf6cc4df0cda49bf06858156fab4e630ddeda8129b958a922d79b65503938
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-21.png,1677078347000,a934fc7b910b42a9487e6e5138427a9d5bc37d762c632097a64784189b6aff1c
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-22.png,1677078347000,8cfae64c0a24213ed0d433c63fc2ef9c8d3d233fe95acbf9ec3ab90feacf57d4
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-23.png,1677078347000,73b0913ee853b32c4ebaf1866c97aacaa8d4a09a6c6eb156f7d5e0cad144548c
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-24.png,1677078348000,5ec891c221ce20d07931f9735ca6e486a7e10239e61eb9e87c8163d9b609c984
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-25.png,1677078348000,e3253e30d6b182c979352a75008f1e6960bd83dab7d3654f19f6003ec9023d87
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-26.png,1677078349000,5f2c15edd2800f9a1cbbecb9a1c0526dfdb1f361d208663576ecd8103810a824
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-27.png,1677078350000,c8750ddfc4a07791d47ae2119b63c20ec657f67a39fbd1672447a2efec2b516a
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-28.png,1677078350000,3dc1f8014e03ed5a05137d1a355768a70bb89b0be32e68f33752e982eeb88bcd
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-29.png,1677078352000,906c0bfd768678c4e9cc88a48cab725ba3bb3fd64e8d9756bbe86206ddbbbc40
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-3.png,1677078328000,af9d09e36306e256bd1641fde9e06be6b921556d7e4aa0b2e7986719d652772b
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-30.png,1677078352000,cf445f72c7b6fa38c592669b8c68521d7917b56d4931e652de3505b42d294e5d
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-31.png,1677078354000,a112aeff974008dc2c8d562a7d04add2f6ae01a9ec40428270cd9aeeb62ae4f9
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-32.png,1677078356000,bc2a16430443f377e3a25194168ea6510276d2b3949a67529898625000727a82
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-33.png,1677078357000,60b5d4d6f0964a4fd6b02b082034bad65586d8192b4f818caa20dd6693386e76
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-34.png,1677078358000,3ed8fad7031e20fb0e93b648cce95ebdffd28dd629d576d8f7e2fb68faaa5590
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-35.png,1677078358000,97f3cdb8e453060eb8b4bed64936225ead7ffec946799046e120b77527f9d97e
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-36.png,1677078360000,3750a4a1d11e9064a8ce5850fd1b0503a173668b1e6c05a11f17cee24ade78eb
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-37.png,1677078362000,7aab3d4bcf7772677cca00c1f3ee8324433e5be1cd892bc78615767f19e63eb7
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-38.png,1677078363000,ec4520ffffebe1aae13b762ddcb23e3b4fe37a48c9eb91c44435f6e4f7b8b2b7
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-39.png,1677078364000,24ce747631ed067cb05f90ca92a8119f326f2519ce3e559dd2736327cd35c550
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-4.png,1677078329000,4ddc5347b466ba73e0be610b3373a38daba8eecae010801912bd95a79ffe5e78
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-40.png,1677078365000,7546b4ad851df05acd6ab61569d9fe4a74182450cd8a1cfc0e45459eafbd560d
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-41.png,1677078367000,2dd4a2ff5a8ac759b93d4671cec8645f2e4e18a8e93487affee328d58f3b36cb
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-42.png,1677078369000,24bf483f9f3093054500e78ff7d114712e80eb2d1e9c9763103bb327f1ac469a
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-43.png,1677078370000,1f9ffd1017aed272bc1bc7966298fc536883aaab4cd5ae18362e2cf2437db6f1
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-44.png,1677078372000,b2c966bfd1ea5e725fff1e7242e88664517b98e7105a6b0af6f4b11b521c602f
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-45.png,1677078372000,6438019431f3206768dbf3898c089d0dbe264ac18163ee482a9543373a08f4ca
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-46.png,1677078374000,c61da93ed5e1c6d9c29bc2abe9fd39e808beebbffe2153f661173d9cc58ce43e
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-47.png,1677078374000,075a52fccd03fa7f4853e16aec24c272ca271006578f801c2b583e2275686004
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-48.png,1677078375000,26331efc7c0564294d210c351a1ebb36e5a58caed89d1a174d1c9b1cf4c6a1c3
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-49.png,1677078375000,ab1204e4d159bae2b90879166f3d4c36396d26555b994e44621d2ff85f215b06
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-5.png,1677078329000,2cd5a59acd66bc7ca2c14d7cbb616a18fe1b0ff10b739e7297598eda48fbaa17
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-50.png,1677078375000,f0f67eabbb81331796636bb09acff0804e1b3885bf4f15ef46df61547047c00a
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-51.png,1677078376000,35b486bfdda640831b9363cef6198c298cef504ff159783e87c40438dbc3bc12
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-52.png,1677078376000,efb6b731dab7147a143895b50b584a23377d099fe4d4579c280a7612173dfbf7
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-53.png,1677078376000,e563998bb494419d8fb4d1664c75038f9a1fa4762c9f36f1d3c92a1b12daebc0
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-54.png,1677078377000,7798ef7ffd2f02361cfe2a3b092840e3093bffa7b95320013fc4e8cb069ef678
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-55.png,1677078378000,0bcb5635c6a327a5b44dc13d7b94cade74e7f468e8df5df42b491d7ebd3c481a
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-56.png,1677078379000,be93ddc641242e257e95c4a0eebd4a92ff14382ee364f92fb0c93ce747d4d045
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-57.png,1677078380000,4830c8a5866ac02b2a43b006f604adcc5ffdcaec05e6784d7593911f893167ee
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-58.png,1677078381000,0bb247d1a31a96e1dac5318d64956f159c0b675bfecb3fd5816f39becf66c25a
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-59.png,1677078382000,81776d495833eef28f1062cae71c43d2d3cb7fba2301aee2a0a6b877694ecead
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-6.png,1677078331000,fc4682d60b85c07408165464fa0292dd09b6e3667a49655f0b57cd19cad8adb2
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-60.png,1677078383000,ec8eb6a811133e44f6b7f710bc9dd2ad435a2adaf4093fef445771afc72abbad
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-61.png,1677078384000,52852b678b3b7a72836673ca725766f1594845b0d9a0db3d6bfafbf358dada8d
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-62.png,1677078385000,407beca8058b70cb042e844745351af45646e9d4ba2dd454dac76172150edc91
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-63.png,1677078385000,ff534947550469b88cc122ea61f722157c595f67173bd323f3431c09a0550f3a
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-64.png,1677078385000,49f4d5482f3cae21537dcc855797b95226a8d4007453f24a3fbdcf7cc8ea379b
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-65.png,1677078386000,98d809e00075353c66c03774a0f29fa359fff13b701e96f48bf652d9be01d51e
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-66.png,1677078386000,b479f3263c2070255fc416da4270966fc5928e72d7e7c7c842efa4048cdd2e8b
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-67.png,1677078387000,bbdf7292cf3775a33062155bcaaf2337312cb0bf57ca89563340cc07576879c4
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-68.png,1677078387000,b0e1e64651f3edd1e2f1625815786762c883c050118831815f14e7e32da8ebd3
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-69.png,1677078389000,482a486474107c76a22781365651ab73fc23435fff5129b6bcb3d4e7d12c36be
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-7.png,1677078332000,a934ad82295a5ba744cacd0c4de9c8819976eb40acd569272ad031729ac131f5
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-70.png,1677078389000,c9d7aea2e9f5d4909b59555ca704c38f2fda95fe1654b0829800eb3e5ee1473b
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-71.png,1677078391000,4bb78cf270b13f8482c9cc9485ef29352c641fb3795c7f70f0c2489ae727bb7f
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-72.png,1677078393000,d4d25092e3d7eeaa36d9521340abd52789ddfd1a623dfd0ff75e3424019e4d71
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-73.png,1677078395000,112473adbe58c94b26e80acc01db0d93c12dddcc0e3e44fc5729a5a0c2899c5d
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-74.png,1677078396000,559814e2f54b78bf955650719c07c16b017d6f30e80617247435d98be68f3993
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-75.png,1677078397000,5ea495a246fd6c8880f2a5c732f477d25471dfebea0817add4a6a610f44d81e8
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-76.png,1677078397000,ff2ffe91927145050e22f7dc739d274aea67a9f0503b02033cfcfc76fa2070c0
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-77.png,1677078399000,0554d7c6c5d3ce89db25d99740288049fe917b9d5526fbd2103f21938135fd2a
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-78.png,1677078400000,721ee67f27adffafd39092bbe3c5a0154ff64db3abb757f61ae16f9747018fab
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-79.png,1677078401000,49676151b3c265ee3cbe699bf9c1ff37a6b4da8a18f0ec91c9783783831c3f07
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-8.png,1677078333000,081e8a53650c438a2f4a6b27501e089a07981a9f13a670c961b940802d3a325b
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-80.png,1677078403000,7a780966533bb5958a0e78efa4cb2429881ab36797e17ff98a07ae4062abcca8
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-81.png,1677078404000,684b3dd784a28584993cb51cab49d430509380e91fb3d22714f2ba6207a8fc89
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-82.png,1677078405000,f9a545b463f26c85133868c4c1c131f22ec99882883c22577d0af741a3ed3a8c
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-83.png,1677078407000,e5dd9d1ba9394728777394be03dd8cc008829416ee63926fa60c642dd6bf0a68
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-84.png,1677078409000,c833d555a8401a5dd44f2de0a7e13660e65fb7b987c5589d2b0a2730de601fad
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-85.png,1677078411000,c641c3ce1f00c07a6e0239766bea804669ba43f3a1b6c63ea98d1373ad0da176
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-86.png,1677078412000,707b3efc32da8cb8cd0f1da1d0e5875c23b40d361f29f9970f8c043c27866cdb
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-87.png,1677078413000,857d1eb242804bc8ba1999660da695e5acce3745e0b092c7b86289c8b58a5e8f
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-88.png,1677078413000,c8799ef918a9fe14465f1e979ad315023cbc117473b99bc47194abfff4fbe7e3
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-89.png,1677078414000,337b11c5391a87e57254a03c773a773ebd60975a30ca8824ae96210c767e2feb
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-9.png,1677078334000,6eb59b9a7b9b6feff4fc39cb3d4e126aabd2dea90e414f739f23d0bee7614a9f
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-90.png,1677078415000,342605a66f981815cec7d0b96c9585d88c0119a8cbff4ba1ff0f158e0b712f0d
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-91.png,1677078415000,fb4879fa0f0bc895d8f7d7136ca4a38113dbe0419e14f18768df1ae9b3be8612
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-92.png,1677078415000,5f35d3ca312285a3acfaec777f1b14c2dd8d791475873e4845e6a3d515d30441
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-93.png,1677078416000,6e1320676b11c260dc2c616bc288daab4d9dc50d611ad0fef98186e3cec471cb
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-94.png,1677078417000,27c300e30882d3b6cc3932968828f7cbbd0199616615c4a0cefcc1f564cddbef
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-95.png,1677078418000,f1de1112699ba7098155906f517e394509263ffbd6405cd019827654d1ee3587
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-96.png,1677078419000,91cfb3b34106510e660adedd099b947516648a8e5ac98e05485371fcec8b6a2e
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-97.png,1677078420000,35eb1333fd5678e8464edf352fdbae756c2efa67e6d28be9d39d15962c1eb462
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-98.png,1677078421000,c48d6791064cd7338d444814b0620c858dc439d4688dd10f6822488e1b87031a
+src/fernao1/livro1FERNÃO/Fernão Capelo Gaivota by Richard Bach (pdf.io) (1)/Fernão Capelo Gaivota by Richard Bach-99.png,1677078421000,54f2403b011f951552335b6c4c9c3d1dffc83dac0773981d93456d3351405eee
+public/404.html,1677084111502,b7bab6b83fa074653ff28c8d2a64135d3434575f70a12ab3d3ba8080461b9537
+public/manifest.json,1676901630598,0958a5e0c831126100c8c2d06a6bbaa665a3900f21aaff4130238a6f5a113aa1
+public/index.html,1676901630542,ae25650d1f07a645c5c5562593d4fd0cd51501159d74978ebe34b0b5a024a6b9
