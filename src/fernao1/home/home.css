@@ -1,0 +1,153 @@
+.App {
+
+  max-width:500px;
+  width:100%;
+  height: 100%;
+}
+
+.aba-cima{
+  width: 100%;
+  height: 70px;
+  background-color: #28B5B5;
+
+}
+.aba-cima-icon-docboks{
+  width: 115px;
+  height: 28px;
+  margin-left: 12px;
+  top: 21px;
+
+}
+.aba-cima-icon-docboks-h1{
+  font-size: 26px;
+
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+
+line-height: 33px;
+
+color: #ffffff;
+display: inline-block;
+}
+.aba-cima-icon-user{
+  width: 40px;
+height: 40px;
+right:10px;
+top: 15px;
+
+background: #484848;
+border-radius: 40px;
+
+position: absolute;
+}
+.img-anuncio-bemvindo{
+
+width: 100%;
+height: 107px;
+left: 0px;
+margin-top: 4px;
+background-color: #cacaca;
+z-index: -40;
+margin-bottom:30px;
+}
+
+.img1{
+
+width: 100%;
+height: 107px;
+left: 0px;
+top: 74px;
+z-index: -30;
+}
+
+.inner{
+display:flex;
+margin-top:10px;
+}
+.item{
+min-height:100px;
+min-width:40px;
+
+margin-top:10px;
+  z-index: 30;
+}
+
+.imger{
+
+height:100%;
+width:33%;
+
+border-radius:10px;
+pointer-events: none;
+margin-left:3px;
+}
+
+.carossel{
+cursor:grab;
+margin-left:6px;
+
+overflow: hidden;
+}
+.div-texto-slider{
+margin-top:20px;
+}
+.div-texto-h2{margin:0px;
+margin-left:12px;
+font-size:20px;}
+.div-texto-h3{margin:0px;
+margin-left:12px;
+font-size:15px;}
+.footer{
+
+  background: black;
+  position: absolute;
+
+  width: 100%;
+  height: 60px;
+  color:#ffff;
+  z-index: -300;
+margin-top:100px;
+}
+.div-texto-h3-2{
+text-align: center;
+margin:0px;
+margin-top:1rem;
+
+margin-left:12px;
+
+font-size:12px;}
+
+.menu-aba1{
+ width: 100%;
+
+}
+.menu-aba-baixo{
+  position: absolute;
+   position: fixed;
+ width: 75%;
+  height: 60px;
+  background-color: #cacaca;
+margin-left:12.5%;
+border-radius:10px;
+
+  bottom: 30px;
+  z-index: 30;
+  opacity : 0.82; 
+}
+.img-div-slider13{
+min-height:100%;
+width:33%;
+
+}
+.img-div-slider13 img{
+height:100%;
+width:95%;
+
+border-radius:10px;
+pointer-events: none;
+margin-left:3px;
+
+}
+
