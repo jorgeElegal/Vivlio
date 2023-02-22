@@ -1,11 +1,12 @@
 # Docboks
 
 
-este é um projeto feito ultilizando React.js ( e inicializado com create react app) pela CJMstartup
+Este é um projeto feito utilizando React.js (e inicializado com create react app) pela CJMstartup.
 
 ## sobre
 
-Feito pel CJMstartup!
+Feito pela  CJMstartup!
+Versão atual: 0.0.01 beta.
 
 ### `oque é`
 
@@ -13,15 +14,19 @@ O DocBoks é um projeto de biblioteca virtual privativa para instituições de e
 
 ### ` qual o nosso objetivo?`
 
-O objetivo do projeto DocBoks é transformar o como crianças e adolesentes leem nas escolas ultilizando de um ambiente atrativo e facilitado para aumentar o interesse e a atenção de nossos usuarios.  
+O objetivo do projeto DocBoks é transformar o como crianças e adolescentes leem nas escolas utilizando de um ambiente atrativo e facilitado para aumentar o interesse e a atenção de nossos usuários.  
 
 ### `como funciona?`
-Os componentes do projeto DocBoks funcionam em servidores e repositorios pertencentes a CJMstartup com hospedagem terceirizada. inteiramente desenvolvido pelos participantes da CJMstartup. ultilizando de obras cedidas ao projeto e/ou de dominio publico não ferindo assim quais quer direitos intelectuais de autores ou editoras.
+Os componentes do projeto DocBoks funcionam em servidores e repositórios pertencentes a CJMstartup com hospedagem terceirizada. Inteiramente desenvolvido pelos participantes da CJMstartup. Utilizando de obras cedidas ao projeto e/ou de domínio publico não ferindo assim quais quer direitos intelectuais de autores, ou editoras.
 
 
 ### ` nossos links `
 site oficial da CJMstartup: https://jorgeelegal.github.io/cjm-site/
-instagram oficial da CJMstatup: https://www.instagram.com/cjm.startup/
+
+Instagram oficial da CJMstatup: https://www.instagram.com/cjm.startup/
+
 github oficial da CJMstartup: https://github.com/jorgeElegal
+
 buy me a coffe CJMstartup: https://www.buymeacoffee.com/cjmstartupV
+
 Email CJMstartup: cjm.startup.gerais@gmail.com
