@@ -6,7 +6,7 @@ import Anuncio from "./leitura muda o mundo.png";
 import {motion} from 'framer-motion'
 import imagebooks1 from '../home/img/71ynUi8oFVL.jpg';
 import imagebooks2 from '../home/img/71BGWapQw8L.jpg';
-import imagebooks3 from '../home/img/índice2.jpeg';
+import imagebooks3 from '../home/img/memórias póstumas de brás cubas.png';
 
 
 
@@ -85,12 +85,12 @@ setWidth(carossel.current?.scrollWidth - carossel.current?.offsetWidth)
 </Link>
 
 
-<Link to="/FernaoCapeloGaivota/ler" className ="img-div-slider13">
+<Link to="/OPequenoPrincipe/ler" className ="img-div-slider13">
 <img src={imagebooks2}alt="Texto alt"/>
 </Link>
 
 
-<Link to="/FernaoCapeloGaivota/ler" className ="img-div-slider13">
+<Link to="/MemoriasPostumas/ler" className ="img-div-slider13">
 <img src={imagebooks3}alt="Texto alt"/>
 </Link>
 
@@ -120,7 +120,7 @@ setWidth(carossel.current?.scrollWidth - carossel.current?.offsetWidth)
 </Link>
 
 
-<Link to="/FernaoCapeloGaivota/ler" className ="img-div-slider13">
+<Link to="/OPequenoPrincipe/ler" className ="img-div-slider13">
 <img src={imagebooks2}alt="Texto alt"/>
 </Link>
 
