@@ -59,19 +59,10 @@ setWidth(carossel.current?.scrollWidth - carossel.current?.offsetWidth)
  dragConstraints ={{ right: 0, left: -width}}>
 
 
-<Link to="/FernaoCapeloGaivota/ler" className ="img-div-slider13-autor">
-<img src={imagebooks1}alt="Texto alt" />
-<h3 className="div-texto-h3-slider1-autor">Julio Verne</h3>
-</Link>
 
 
-<Link to="/OPequenoPrincipe/ler" className ="img-div-slider13-autor">
-<img src={imagebooks2}alt="Texto alt"/>
-<h3 className="div-texto-h3-slider1-autor">Richard Bach</h3>
-</Link>
 
-
-<Link to="/MemoriasPostumas/ler" className ="img-div-slider13-autor">
+<Link to="/MachadodeAssis" className ="img-div-slider13-autor">
 <img src={imagebooks3}alt="Texto alt"/>
 <h3 className="div-texto-h3-slider1-autor">Machado De Assis</h3>
 </Link>

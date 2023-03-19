@@ -7,18 +7,20 @@
 
 .aba-cima{
   width: 100%;
-  height: 44px;
+  height: 80px;
 display: flex;
 justify-content:center;
 align-items:center;
+box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 
 
 }
 
 .logo{
+margin-top:25px;
 
-  width: 120px;
-height: 120px;
+  width: 160px;
+
 
 
 }
@@ -84,10 +86,10 @@ cursor:grab;
 margin-left:6px;
 
 overflow: hidden;
-margin-top:10px;
+margin-top:5px;
 }
 .div-texto-slider{
-margin-top:340px;
+margin-top:320px;
 }
 .div-texto-h2{margin:0px;
 margin-left:12px;
@@ -105,12 +107,15 @@ font-size:15px;}
   color:#ffff;
   z-index: -300;
 
-bottom:0px
+bottom:0px;
+display: flex;
+justify-content:center;
+align-items:center;
 }
 .div-texto-h3-2{
 text-align: center;
 margin:0px;
-margin-top:1rem;
+
 
 margin-left:12px;
 
@@ -137,28 +142,30 @@ border-radius:10px;
 .img-div-slider13{
 max-height:310px;
 min-width:170px;
-margin-left:10px;
+margin-left:5px;
 
 }
 .img-div-slider13 img{
-height:70%;
-width:95%;
+height:65%;
+width:90%;
 
 border-radius:10px;
 pointer-events: none;
-
+box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 
 }
 
 .div-texto-h3-slider1{
+display: inline-block;
 color:black;
-  text-decoration:none;
+  text-decoration: none;
 margin:0px;
 font-size:15px;
 }
 .div-texto-h4-slider2{
+display: inline-block;
 color:black;
-text-decoration: none;
+text-decoration:none ;
 margin:0px;
 font-size:13px;
 }

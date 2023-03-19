@@ -2,13 +2,14 @@ import {useState, useEffect, useRef} from 'react'
 import { Link } from 'react-router-dom';
 import './home.css';
 import Anuncio from "./leitura muda o mundo.png";
-import Logo from "../home/img/cjm (3).png";
+import Logo from "../home/img/cjm__3_-removebg-preview.png";
 import {motion} from 'framer-motion'
 import imagebooks1 from '../home/img/71ynUi8oFVL.jpg';
 import imagebooks2 from '../home/img/71BGWapQw8L.jpg';
 import imagebooks3 from '../home/img/memórias póstumas de brás cubas.png';
 import S from './slider.js';
 import AAutores from './autores.js';
+
 
 
 const allbooks =[imagebooks1, imagebooks2, imagebooks3, ];
