@@ -42,7 +42,7 @@ setWidth(carossel.current?.scrollWidth - carossel.current?.offsetWidth)
 
 <div className="div-texto-slider-autor">
 <h2 className="div-texto-h2-autor">Autores</h2>
-<h3 className="div-texto-h3-autor">Apena os melhores!</h3>
+<h3 className="div-texto-h3-autor">Apenas os melhores!</h3>
  </div>
 
 
