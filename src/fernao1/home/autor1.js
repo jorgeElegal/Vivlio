@@ -78,7 +78,7 @@ function Autor1() {
 
 <Link to="/MachadodeAssis" className ="img-div-slider13-pagina-autor">
 <img src={imagebooks3}alt="Texto alt"/>
-<h3 className="div-texto-h3-slider1-pagina-autor">O lienista</h3>
+<h3 className="div-texto-h3-slider1-pagina-autor">O Lienista</h3>
 <h4 className="div-texto-h4-slider2-pagina-autor">Machado De Assis</h4>
 </Link>
 
