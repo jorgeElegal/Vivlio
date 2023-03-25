@@ -1,0 +1,43 @@
+.App {
+
+  max-width:500px;
+  width:100%;
+  height: 100%;
+}
+
+.aba-cima-icon-Vivlio{
+  width: 100%;
+  height: 80px;
+display: flex;
+justify-content:center;
+align-items:center;
+box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+z-index:40000;
+background-color: #ffffff;
+
+}
+
+.logo{
+margin-top:25px;
+
+  width: 160px;
+  z-index:40500;
+
+
+}
+
+
+
+.aba-cima-icon-user{
+  width: 40px;
+height: 40px;
+right:10px;
+top: 15px;
+
+background: #484848;
+border-radius: 40px;
+
+position: absolute;
+display: none
+}
+

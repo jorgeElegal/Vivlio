@@ -130,7 +130,7 @@
 
 
 .img-div-slider13-pagina-autor{
-    max-height:310px;
+  max-height:340px;
     min-width:170px;
     margin-left:5px;
     
@@ -182,7 +182,7 @@
         margin-left:10px;
         overflow: hidden;
         margin-top:10px;
-        box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+      
         }
         .div-texto-h4-slider2-pagina-autor{
             display: inline-block;

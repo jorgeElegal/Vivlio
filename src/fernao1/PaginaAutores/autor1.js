@@ -1,15 +1,15 @@
 import {useState, useEffect, useRef} from 'react'
 import { Link } from 'react-router-dom';
 import {motion} from 'framer-motion'
+import LogoeFooter from '../home/Logo e Footer.js';
+import Footer from '../home/Footer.js';
+import IMAGE from '../PaginaAutores/imgAutores/httpswww.canva.com.gif';
 
-import IMAGE from '../home/img/httpswww.canva.com.gif';
-import imagebooks1 from '../home/img/71ynUi8oFVL.jpg';
-import imagebooks2 from '../home/img/71BGWapQw8L.jpg';
-import imagebooks3 from '../home/img/memórias póstumas de brás cubas.png';
-import Logo from "../home/img/cjm__3_-removebg-preview.png";
+import imagebooks3 from '../PaginaAutores/imgAutores/memórias póstumas de brás cubas.png';
+
 import './autor1.css';
 
-const allbooks =[imagebooks1, imagebooks2, imagebooks3, ];
+const allbooks =[imagebooks3, ];
 
 
 function Autor1() {
@@ -36,19 +36,12 @@ function Autor1() {
   
     <div className="Autor1">
 
-     <div className="aba-cima">
 
 
-<div className="aba-cima-icon-docboks">
 
-<img src={Logo} alt="1" className='logo'/>
-</div>
+     <LogoeFooter/>
 
-<div className="aba-cima-icon-user">
 
-</div>
-
-</div>
 
      <div className="Autor-div-all">
 
@@ -98,14 +91,12 @@ function Autor1() {
 
 </motion.div>
 
-<div className="footer">
-          <h3 className="div-texto-h3-2">@2023 CJMstartup. Todos os direitos reservados a CJMstartup.</h3>
-           </div>
-                
+           
+          <Footer/>     
+         
           </div>
           </div>
        
-
     </div>
 
 

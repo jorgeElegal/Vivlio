@@ -6,7 +6,8 @@ import Home from '../src/fernao1/home';
 import FernãoC from '../src/fernao1/livro1FERNÃO';
 import Mpostunas from '../src/fernao1/livroMemoriaPostulasDeJrasCubas';
 import O from '../src/fernao1/o-pequeno-principe';
-import Autores1 from '../src/fernao1/home/autor1.js';
+import Autores1 from '../src/fernao1/PaginaAutores/autor1.js';
+import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd.js';
 function App() {
   return (
 
@@ -19,6 +20,7 @@ function App() {
 <Route path="/MemoriasPostumas/ler" element={<Mpostunas/>} />
 <Route path="/OPequenoPrincipe/ler" element={<O/>} />
 <Route path="/MachadodeAssis" element={<Autores1/>} />
+<Route path="/Livro1" element={<Livro1/>} />
 </Routes>
 
 </BrowserRouter>

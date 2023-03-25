@@ -9,8 +9,8 @@ import imagebooks2 from '../home/img/71BGWapQw8L.jpg';
 import imagebooks3 from '../home/img/memórias póstumas de brás cubas.png';
 import S from './slider.js';
 import AAutores from './autores.js';
-
-
+import LogoeFooter from './Logo e Footer.js';
+import Footer from './Footer.js';
 
 const allbooks =[imagebooks1, imagebooks2, imagebooks3, ];
 
@@ -43,19 +43,11 @@ setWidth(carossel.current?.scrollWidth - carossel.current?.offsetWidth)
     <div className="App3">
   
  
-     <div className="aba-cima">
 
 
-     <div className="aba-cima-icon-docboks">
+     <LogoeFooter/>
 
-  <img src={Logo} alt="1" className='logo'/>
- </div>
 
- <div className="aba-cima-icon-user">
- 
- </div>
-
- </div>
 
  <div className="img-anuncio-bemvindo">
 
@@ -83,7 +75,7 @@ setWidth(carossel.current?.scrollWidth - carossel.current?.offsetWidth)
  dragConstraints ={{ right: 0, left: -width}}>
 
 
-<Link to="/FernaoCapeloGaivota/ler" className ="img-div-slider13">
+<Link to="/Livro1" className ="img-div-slider13">
 <img src={imagebooks1}alt="Texto alt" />
 <h3 className="div-texto-h3-slider1">Fernão Capelo Gaivota</h3>
 <h4 className="div-texto-h4-slider2">Richard Bach</h4>
@@ -121,9 +113,7 @@ setWidth(carossel.current?.scrollWidth - carossel.current?.offsetWidth)
  </div>
 
 
-<div className="footer">
-<h3 className="div-texto-h3-2">@2023 CJMstartup. Todos os direitos reservados a CJMstartup.</h3>
- </div>
+ <Footer/>
 
 
 
