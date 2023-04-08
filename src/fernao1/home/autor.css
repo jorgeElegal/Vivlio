@@ -41,26 +41,28 @@ box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 margin-top:40px;
 }
 .div-texto-h2-autor{margin:0px;
+  font-family: 'Istok Web', sans-serif;
 margin-left:12px;
 font-size:20px;}
 .div-texto-h3-autor{margin:0px;
+  font-family: 'Istok Web', sans-serif;
 margin-left:12px;
 font-size:15px;}
 
 
 .img-div-slider13-autor{
-max-height:150px;
-max-width:140px;
+max-height:120px;
+max-width:200px;
 margin-left:10px;
 
 }
 .img-div-slider13-autor img{
-height:75%;
+height:70%;
 width:100%;
 
 
 pointer-events: none;
-border-radius:20%;
+border-radius:10px;
 box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
@@ -68,11 +70,22 @@ box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 display: inline-block;
 color:black;
  text-decoration:none;
-margin:0px;
+
 font-size:13px;
-text-align: center;
-margin-left:10px;
+
+margin-left:45px;
+font-family: 'Istok Web', sans-serif;
 
 }
 
 
+.divDoH3DoAutor{
+  display:inline-flex ;
+
+    width: 200;
+    height: 20px;
+    text-align: center;
+  justify-content:center;
+  align-items:center;
+ 
+}

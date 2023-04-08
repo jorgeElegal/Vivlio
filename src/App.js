@@ -5,9 +5,29 @@ import {BrowserRouter, Route, Routes, Link } from 'react-router-dom';
 import Home from '../src/fernao1/home';
 import FernãoC from '../src/fernao1/livro1FERNÃO';
 import Mpostunas from '../src/fernao1/livroMemoriaPostulasDeJrasCubas';
+import L1 from '../src/fernao1/a divina comedia';
+import L2 from '../src/fernao1/a mão e luva';
+import L3 from '../src/fernao1/esaú e jacó';
+import L4 from '../src/fernao1/helena';
+import L5 from '../src/fernao1/noite na taverna';
+import L6 from '../src/fernao1/o alienista';
+import L7 from '../src/fernao1/os sertões';
+import L8 from '../src/fernao1/poema ironicos venenosos e atiricos';
+import L9 from '../src/fernao1/volta ao mundo em 80 dias';
 import O from '../src/fernao1/o-pequeno-principe';
 import Autores1 from '../src/fernao1/PaginaAutores/autor1.js';
 import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd.js';
+import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 1).js';
+import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 2).js';
+import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 3).js';
+import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 4).js';
+import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 5).js';
+import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 6).js';
+import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 7).js';
+import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 8).js';
+import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 9).js';
+import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 10).js';
+import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 11).js';
 function App() {
   return (
 
@@ -20,6 +40,15 @@ function App() {
 <Route path="/MemoriasPostumas/ler" element={<Mpostunas/>} />
 <Route path="/OPequenoPrincipe/ler" element={<O/>} />
 <Route path="/MachadodeAssis" element={<Autores1/>} />
+<Route path="/L1" element={<L1/>} />
+<Route path="/L2" element={<L2/>} />
+<Route path="/L3" element={<L3/>} />
+<Route path="/L4" element={<L4/>} />
+<Route path="/L5" element={<L5/>} />
+<Route path="/L6" element={<L6/>} />
+<Route path="/L7" element={<L7/>} />
+<Route path="/L8" element={<L8/>} />
+<Route path="/L9" element={<L9/>} />
 <Route path="/Livro1" element={<Livro1/>} />
 </Routes>
 

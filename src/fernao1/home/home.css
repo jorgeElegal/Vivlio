@@ -1,5 +1,5 @@
 .App {
-
+  font-family: 'Istok Web', sans-serif;
   max-width:500px;
   width:100%;
   height: 100%;
@@ -25,20 +25,35 @@ margin-top:25px;
 
 }
 
-
-
-.aba-cima-icon-user{
-  width: 40px;
-height: 40px;
-right:10px;
-top: 15px;
-
-background: #484848;
-border-radius: 40px;
-
-position: absolute;
-display: none
+.Div-P-{
+  width: 100%;
+  margin:0px;
 }
+
+.PDa-Div-P-{
+display: inline-block;
+margin-left: 20px;
+font-size: 20px;
+color: #435055;
+}
+.PDa-Div-P-2{
+  display: inline-block;
+  margin-left: 50px;
+  font-size: 20px;
+  color: #435055;
+  }
+
+
+
+
+  .Autor-autor-quadro1-Divisoria-p2{
+    width: 100%;
+    
+    height: 2px;
+  background-color: #29a19C;
+  margin-top: -15px;
+  }
+
 .img-anuncio-bemvindo{
 
 width: 100%;
@@ -92,15 +107,17 @@ margin-top:5px;
 margin-top:380px;
 }
 .div-texto-h2{margin:0px;
+  font-family: 'Istok Web', sans-serif;
 margin-left:12px;
 font-size:20px;}
 .div-texto-h3{margin:0px;
+  font-family: 'Istok Web', sans-serif;
 margin-left:12px;
 font-size:15px;}
 .footer{
 
   background: black;
-
+  font-family: 'Istok Web', sans-serif;
 
  width: 100%;
   height: 60px;
@@ -115,7 +132,7 @@ align-items:center;
 .div-texto-h3-2{
 text-align: center;
 margin:0px;
-
+font-family: 'Istok Web', sans-serif;
 
 margin-left:12px;
 
@@ -161,6 +178,7 @@ color:black;
   text-decoration: none;
 margin:0px;
 font-size:15px;
+font-family: 'Istok Web', sans-serif;
 }
 .div-texto-h4-slider2{
 display: inline-block;
@@ -168,4 +186,20 @@ color:black;
 text-decoration:none ;
 margin:0px;
 font-size:13px;
+font-family: 'Istok Web', sans-serif;
 }
+
+
+.div-texto-slider-22222{
+  margin-top:20px;
+  }
+  .div-texto-h2-22222{margin:0px;
+    font-family: 'Istok Web', sans-serif;
+  margin-left:12px;
+  font-size:20px;}
+  .div-texto-h3-22222{margin:0px;
+    font-family: 'Istok Web', sans-serif;
+  margin-left:12px;
+  font-size:15px;}
+
+  

@@ -64,7 +64,8 @@ setWidth(carossel.current?.scrollWidth - carossel.current?.offsetWidth)
 
 <Link to="/MachadodeAssis" className ="img-div-slider13-autor">
 <img src={imagebooks3}alt="Texto alt"/>
-<h3 className="div-texto-h3-slider1-autor">Machado De Assis</h3>
+
+<div className ="divDoH3DoAutor"><h3 className="div-texto-h3-slider1-autor">Machado De Assis</h3></div>
 </Link>
 
 

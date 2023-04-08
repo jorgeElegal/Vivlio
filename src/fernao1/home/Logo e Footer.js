@@ -1,7 +1,7 @@
 import React from 'react';
 import './LogoeFooter.css';
 import { Link } from 'react-router-dom';
-import Logo from "../PaginaAutores/imgAutores/cjm__3_-removebg-preview.png";
+
 
 const LogoeFooter = () => {
  
@@ -10,7 +10,7 @@ const LogoeFooter = () => {
         <div className="LogoeFooter">
         <div className="aba-cima-icon-Vivlio">
 
-        < Link to="/"> <img src={Logo} alt="1" className='logo'/>  </Link>
+        < Link to="/"> <p className="logo">Vivlío</p> </Link>
      </div>
 
 

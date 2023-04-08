@@ -91,8 +91,7 @@ function Autor1() {
 
 </motion.div>
 
-           
-          <Footer/>     
+
          
           </div>
           </div>

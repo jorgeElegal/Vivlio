@@ -48,10 +48,22 @@ setWidth(carossel.current?.scrollWidth - carossel.current?.offsetWidth)
      <LogoeFooter/>
 
 
+<div className="Div-P-">
+  <p className="PDa-Div-P-">O projeto</p>
+  <p className="PDa-Div-P-2">Toda as obras</p>
+  <p className="PDa-Div-P-2">Loja</p>
+</div>
+
+<div className="Autor-autor-quadro1-Divisoria-p2"></div>
+
+
+
+
+
 
  <div className="img-anuncio-bemvindo">
 
-<S/>
+<S className="Sl"/>
 <AAutores/>
 
  </div>
@@ -104,6 +116,96 @@ setWidth(carossel.current?.scrollWidth - carossel.current?.offsetWidth)
 
 </motion.div>
 
+
+
+
+<div className="div-texto-slider-22222">
+<h2 className="div-texto-h2-22222">Clássicos</h2>
+<h3 className="div-texto-h3-22222">O melhor da literatura mundial!</h3>
+ </div>
+
+
+<motion.div ref={carossel} className ="carossel" whileTap={{cursor: "grabbing"}}>
+
+<motion.div className ="inner"
+ drag="x"
+ dragConstraints ={{ right: 0, left: -width}}>
+
+
+<Link to="/Livro1" className ="img-div-slider13">
+<img src={imagebooks1}alt="Texto alt" />
+<h3 className="div-texto-h3-slider1">Fernão Capelo Gaivota</h3>
+<h4 className="div-texto-h4-slider2">Richard Bach</h4>
+</Link>
+
+
+<Link to="/L1" className ="img-div-slider13">
+<img src={imagebooks2}alt="Texto alt"/>
+<h3 className="div-texto-h3-slider1">O Pequeno Principe</h3>
+<h4 className="div-texto-h4-slider2">Antoine de Saint-Exupéry</h4>
+</Link>
+
+
+<Link to="/MemoriasPostumas/ler" className ="img-div-slider13">
+<img src={imagebooks3}alt="Texto alt"/>
+<h3 className="div-texto-h3-slider1">Memórias Póstumas De Brás Cubas</h3>
+<h4 className="div-texto-h4-slider2">Machado De Assis</h4>
+</Link>
+
+
+
+
+
+</motion.div>
+
+
+</motion.div>
+
+
+
+
+<div className="div-texto-slider-22222">
+<h2 className="div-texto-h2-22222">Litertura braileira</h2>
+<h3 className="div-texto-h3-22222">Do Realimo ao Romantismo</h3>
+ </div>
+
+
+
+<motion.div ref={carossel} className ="carossel" whileTap={{cursor: "grabbing"}}>
+
+<motion.div className ="inner"
+ drag="x"
+ dragConstraints ={{ right: 0, left: -width}}>
+
+
+<Link to="/Livro1" className ="img-div-slider13">
+<img src={imagebooks1}alt="Texto alt" />
+<h3 className="div-texto-h3-slider1">Fernão Capelo Gaivota</h3>
+<h4 className="div-texto-h4-slider2">Richard Bach</h4>
+</Link>
+
+
+<Link to="/OPequenoPrincipe/ler" className ="img-div-slider13">
+<img src={imagebooks2}alt="Texto alt"/>
+<h3 className="div-texto-h3-slider1">O Pequeno Principe</h3>
+<h4 className="div-texto-h4-slider2">Antoine de Saint-Exupéry</h4>
+</Link>
+
+
+<Link to="/MemoriasPostumas/ler" className ="img-div-slider13">
+<img src={imagebooks3}alt="Texto alt"/>
+<h3 className="div-texto-h3-slider1">Memórias Póstumas De Brás Cubas</h3>
+<h4 className="div-texto-h4-slider2">Machado De Assis</h4>
+</Link>
+
+
+
+
+
+</motion.div>
+
+
+</motion.div>
 
 
 <div className="menu-aba1">
