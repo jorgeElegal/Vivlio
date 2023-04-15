@@ -89,22 +89,22 @@ setWidth(carossel.current?.scrollWidth - carossel.current?.offsetWidth)
 
 <Link to="/Livro1" className ="img-div-slider13">
 <img src={imagebooks1}alt="Texto alt" />
-<h3 className="div-texto-h3-slider1">Fernão Capelo Gaivota</h3>
-<h4 className="div-texto-h4-slider2">Richard Bach</h4>
+<h3 className="div-texto-h3-slider1">Memórias Postumas de Brás Cubas</h3>
+<h4 className="div-texto-h4-slider2">Machado de Assis</h4>
 </Link>
 
 
 <Link to="/OPequenoPrincipe/ler" className ="img-div-slider13">
 <img src={imagebooks2}alt="Texto alt"/>
-<h3 className="div-texto-h3-slider1">O Pequeno Principe</h3>
-<h4 className="div-texto-h4-slider2">Antoine de Saint-Exupéry</h4>
+<h3 className="div-texto-h3-slider1">A volta ao mundo em 80 dias</h3>
+<h4 className="div-texto-h4-slider2">Júlio Verne</h4>
 </Link>
 
 
 <Link to="/MemoriasPostumas/ler" className ="img-div-slider13">
 <img src={imagebooks3}alt="Texto alt"/>
-<h3 className="div-texto-h3-slider1">Memórias Póstumas De Brás Cubas</h3>
-<h4 className="div-texto-h4-slider2">Machado De Assis</h4>
+<h3 className="div-texto-h3-slider1">A Divina Comédia</h3>
+<h4 className="div-texto-h4-slider2">Dante Alighieri</h4>
 </Link>
 
 

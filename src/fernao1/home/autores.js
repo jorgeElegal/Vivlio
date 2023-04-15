@@ -4,7 +4,7 @@ import './autor.css';
 import {motion} from 'framer-motion'
 import imagebooks1 from '../home/img/julio-verne-conheca-o-intrigante-escritor-frances-pai-da-ficcao-cientifica-4.jpg';
 import imagebooks2 from '../home/img/unnamed.webp';
-import imagebooks3 from '../home/img/machado-assis.webp';
+import imagebooks3 from '../home/img/machado.png';
 
 
 
