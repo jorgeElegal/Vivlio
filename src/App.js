@@ -26,7 +26,7 @@ import Livro7 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (c
 import Livro8 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 7).js';
 import Livro9 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 8).js';
 import Livro10 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 9).js';
-
+import Livro11 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 10).js';
 
 function App() {
   return (
@@ -59,6 +59,8 @@ function App() {
 <Route path="/Livro8" element={<Livro8/>} />
 <Route path="/Livro9" element={<Livro9/>} />
 <Route path="/Livro10" element={<Livro10/>} />
+<Route path="/Livro11" element={<Livro11/>} />
+
 </Routes>
 
 </BrowserRouter>

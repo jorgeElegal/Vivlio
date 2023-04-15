@@ -4,9 +4,17 @@ import './home.css';
 import Anuncio from "./leitura muda o mundo.png";
 import Logo from "../home/img/cjm__3_-removebg-preview.png";
 import {motion} from 'framer-motion'
-import imagebooks1 from '../home/img/71ynUi8oFVL.jpg';
-import imagebooks2 from '../home/img/71BGWapQw8L.jpg';
-import imagebooks3 from '../home/img/memórias póstumas de brás cubas.png';
+import imagebooks1 from '../home/img/1.png';
+import imagebooks2 from '../home/img/2.png';
+import imagebooks3 from '../home/img/3.png';
+import imagebooks5 from '../home/img/5.png';
+import imagebooks6 from '../home/img/6.png';
+import imagebooks11 from '../home/img/11.png';
+import imagebooks12 from '../home/img/12.png';
+import imagebooks13 from '../home/img/13.png';
+import imagebooks14 from '../home/img/14.png';
+import imagebooks15 from '../home/img/15.png';
+import imagebooks43 from '../home/img/43.png';
 import S from './slider.js';
 import AAutores from './autores.js';
 import LogoeFooter from './Logo e Footer.js';
@@ -94,18 +102,19 @@ setWidth(carossel.current?.scrollWidth - carossel.current?.offsetWidth)
 </Link>
 
 
-<Link to="/OPequenoPrincipe/ler" className ="img-div-slider13">
+<Link to="/Livro2" className ="img-div-slider13">
 <img src={imagebooks2}alt="Texto alt"/>
 <h3 className="div-texto-h3-slider1">A volta ao mundo em 80 dias</h3>
 <h4 className="div-texto-h4-slider2">Júlio Verne</h4>
 </Link>
 
 
-<Link to="/MemoriasPostumas/ler" className ="img-div-slider13">
-<img src={imagebooks3}alt="Texto alt"/>
+<Link to="/Livro5" className ="img-div-slider13">
+<img src={imagebooks6}alt="Texto alt"/>
 <h3 className="div-texto-h3-slider1">A Divina Comédia</h3>
 <h4 className="div-texto-h4-slider2">Dante Alighieri</h4>
 </Link>
+
 
 
 
@@ -132,29 +141,24 @@ setWidth(carossel.current?.scrollWidth - carossel.current?.offsetWidth)
  dragConstraints ={{ right: 0, left: -width}}>
 
 
-<Link to="/Livro1" className ="img-div-slider13">
-<img src={imagebooks1}alt="Texto alt" />
-<h3 className="div-texto-h3-slider1">Fernão Capelo Gaivota</h3>
-<h4 className="div-texto-h4-slider2">Richard Bach</h4>
+<Link to="/Livro5" className ="img-div-slider13">
+<img src={imagebooks6}alt="Texto alt" />
+<h3 className="div-texto-h3-slider1">A Divina Comédia</h3>
+<h4 className="div-texto-h4-slider2">Dante Alighieri</h4>
 </Link>
 
 
-<Link to="/L1" className ="img-div-slider13">
+<Link to="/Livro2" className ="img-div-slider13">
 <img src={imagebooks2}alt="Texto alt"/>
-<h3 className="div-texto-h3-slider1">O Pequeno Principe</h3>
-<h4 className="div-texto-h4-slider2">Antoine de Saint-Exupéry</h4>
+<h3 className="div-texto-h3-slider1">A volta ao mundo em 80 dias</h3>
+<h4 className="div-texto-h4-slider2">Júlio Verne</h4>
 </Link>
 
-
-<Link to="/MemoriasPostumas/ler" className ="img-div-slider13">
-<img src={imagebooks3}alt="Texto alt"/>
-<h3 className="div-texto-h3-slider1">Memórias Póstumas De Brás Cubas</h3>
+<Link to="/Livro8" className ="img-div-slider13">
+<img src={imagebooks13}alt="Texto alt"/>
+<h3 className="div-texto-h3-slider1">Dom Casmurro</h3>
 <h4 className="div-texto-h4-slider2">Machado De Assis</h4>
 </Link>
-
-
-
-
 
 </motion.div>
 
@@ -178,29 +182,45 @@ setWidth(carossel.current?.scrollWidth - carossel.current?.offsetWidth)
  dragConstraints ={{ right: 0, left: -width}}>
 
 
+<Link to="/Livro7" className ="img-div-slider13">
+<img src={imagebooks12}alt="Texto alt" />
+<h3 className="div-texto-h3-slider1">Helena</h3>
+<h4 className="div-texto-h4-slider2">Machado De Assis</h4>
+</Link>
+
+
+<Link to="/Livro6" className ="img-div-slider13">
+<img src={imagebooks11}alt="Texto alt"/>
+<h3 className="div-texto-h3-slider1">Os Sertões</h3>
+<h4 className="div-texto-h4-slider2">Eucldes Da Cunha</h4>
+</Link>
+
+
 <Link to="/Livro1" className ="img-div-slider13">
-<img src={imagebooks1}alt="Texto alt" />
-<h3 className="div-texto-h3-slider1">Fernão Capelo Gaivota</h3>
-<h4 className="div-texto-h4-slider2">Richard Bach</h4>
-</Link>
-
-
-<Link to="/OPequenoPrincipe/ler" className ="img-div-slider13">
-<img src={imagebooks2}alt="Texto alt"/>
-<h3 className="div-texto-h3-slider1">O Pequeno Principe</h3>
-<h4 className="div-texto-h4-slider2">Antoine de Saint-Exupéry</h4>
-</Link>
-
-
-<Link to="/MemoriasPostumas/ler" className ="img-div-slider13">
-<img src={imagebooks3}alt="Texto alt"/>
+<img src={imagebooks1}alt="Texto alt"/>
 <h3 className="div-texto-h3-slider1">Memórias Póstumas De Brás Cubas</h3>
 <h4 className="div-texto-h4-slider2">Machado De Assis</h4>
 </Link>
 
 
+<Link to="/Livro11" className ="img-div-slider13">
+<img src={imagebooks43}alt="Texto alt"/>
+<h3 className="div-texto-h3-slider1">Noite na Taverna</h3>
+<h4 className="div-texto-h4-slider2">Álvares de Azevedo</h4>
+</Link>
 
 
+<Link to="/Livro10" className ="img-div-slider13">
+<img src={imagebooks15}alt="Texto alt"/>
+<h3 className="div-texto-h3-slider1">A Mão e Luva</h3>
+<h4 className="div-texto-h4-slider2">Machado De Assis</h4>
+</Link>
+
+<Link to="Livro4" className ="img-div-slider13">
+<img src={imagebooks5}alt="Texto alt"/>
+<h3 className="div-texto-h3-slider1">Poema Irônicos Venenosos e Sarcásticos</h3>
+<h4 className="div-texto-h4-slider2">Álvares de Azevedo</h4>
+</Link>
 
 </motion.div>
 
