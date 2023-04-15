@@ -17,17 +17,17 @@ import L9 from '../src/fernao1/volta ao mundo em 80 dias';
 import O from '../src/fernao1/o-pequeno-principe';
 import Autores1 from '../src/fernao1/PaginaAutores/autor1.js';
 import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd.js';
-import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 1).js';
-import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 2).js';
-import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 3).js';
-import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 4).js';
-import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 5).js';
-import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 6).js';
-import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 7).js';
-import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 8).js';
-import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 9).js';
-import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 10).js';
-import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 11).js';
+import Livro2 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 1).js';
+import Livro3 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 2).js';
+import Livro4 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 3).js';
+import Livro5 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 4).js';
+import Livro6 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 5).js';
+import Livro7 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 6).js';
+import Livro8 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 7).js';
+import Livro9 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 8).js';
+import Livro10 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd (cópia 9).js';
+
+
 function App() {
   return (
 
@@ -50,6 +50,15 @@ function App() {
 <Route path="/L8" element={<L8/>} />
 <Route path="/L9" element={<L9/>} />
 <Route path="/Livro1" element={<Livro1/>} />
+<Route path="/Livro2" element={<Livro2/>} />
+<Route path="/Livro3" element={<Livro3/>} />
+<Route path="/Livro4" element={<Livro4/>} />
+<Route path="/Livro5" element={<Livro5/>} />
+<Route path="/Livro6" element={<Livro6/>} />
+<Route path="/Livro7" element={<Livro7/>} />
+<Route path="/Livro8" element={<Livro8/>} />
+<Route path="/Livro9" element={<Livro9/>} />
+<Route path="/Livro10" element={<Livro10/>} />
 </Routes>
 
 </BrowserRouter>
