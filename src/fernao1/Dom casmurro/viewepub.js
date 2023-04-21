@@ -1,7 +1,7 @@
 import React, { useRef, useState, useEffect } from "react";
 
 import { ReactReader, ReactReaderStyle } from "react-reader";
-import Ebook from "./memoriasBras.epub";
+import Ebook from "./domCasmurro.epub";
 
 const ownStyles = {
   ...ReactReaderStyle,
