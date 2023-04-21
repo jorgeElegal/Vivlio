@@ -8,13 +8,13 @@ import imagebooks3 from '../home/img/5.png';
 import './Livro1.css';
 
 const allbooks =[imagebooks3, ];
-var NomeDoLivro ="Exemplo de nome de livro"
+var NomeDoLivro ="Poema Irônicos Venenosos e Sarcásticos"
 var ResumoDaObra ="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 var Repertorio ="oi"
 var NumeroDePagina ="190"
-var AutorD="oi"
-var Categoria ="oi"
-var DisponibilizadoPor ="oi"
+var AutorD="Álvares de Azevedo"
+var Categoria ="Romantismo"
+var DisponibilizadoPor ="[ua] Universidde da Amazonia"
 
 function Livro1() {
 
@@ -53,7 +53,7 @@ function Livro1() {
        <div className="Autor-autor-quadro1"> 
 
        <div className="Autor-autor-quadro1-divDoH1"><h1 className="Autor-autor-quadro-h010">{NomeDoLivro}</h1> </div>
-       <div className="div-buttom">  <Link to="/" > <button className="Autor-div-imagem-buttom">ler</button>
+       <div className="div-buttom">  <Link to="/L8" > <button className="Autor-div-imagem-buttom">ler</button>
        </Link> </div>
 
      

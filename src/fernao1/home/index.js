@@ -56,7 +56,7 @@ setWidth(carossel.current?.scrollWidth - carossel.current?.offsetWidth)
      <LogoeFooter/>
 
 
-<div className="Div-P-">
+     <div className="Div-P-">
   <p className="PDa-Div-P-">O projeto</p>
   <p className="PDa-Div-P-2">Toda as obras</p>
   <p className="PDa-Div-P-2">Loja</p>
@@ -88,14 +88,14 @@ setWidth(carossel.current?.scrollWidth - carossel.current?.offsetWidth)
 
 
 
-<motion.div ref={carossel} className ="carossel" whileTap={{cursor: "grabbing"}}>
+ <motion.div ref={carossel} className ="carossel" whileTap={{cursor: "grabbing"}}>
 
 <motion.div className ="inner"
  drag="x"
  dragConstraints ={{ right: 0, left: -width}}>
 
 
-<Link to="/Livro1" className ="img-div-slider13">
+ <Link to="/Livro1" className ="img-div-slider13">
 <img src={imagebooks1}alt="Texto alt" />
 <h3 className="div-texto-h3-slider1">Memórias Postumas de Brás Cubas</h3>
 <h4 className="div-texto-h4-slider2">Machado de Assis</h4>
@@ -117,13 +117,23 @@ setWidth(carossel.current?.scrollWidth - carossel.current?.offsetWidth)
 
 
 
-
-
+<Link to="/Livro6" className ="img-div-slider13">
+<img src={imagebooks11}alt="Texto alt"/>
+<h3 className="div-texto-h3-slider1">Os Sertões</h3>
+<h4 className="div-texto-h4-slider2">Eucldes Da Cunha</h4>
+</Link>
 
 </motion.div>
 
 
 </motion.div>
+
+
+
+
+
+
+
 
 
 
@@ -188,19 +198,6 @@ setWidth(carossel.current?.scrollWidth - carossel.current?.offsetWidth)
 <h4 className="div-texto-h4-slider2">Machado De Assis</h4>
 </Link>
 
-
-<Link to="/Livro6" className ="img-div-slider13">
-<img src={imagebooks11}alt="Texto alt"/>
-<h3 className="div-texto-h3-slider1">Os Sertões</h3>
-<h4 className="div-texto-h4-slider2">Eucldes Da Cunha</h4>
-</Link>
-
-
-<Link to="/Livro1" className ="img-div-slider13">
-<img src={imagebooks1}alt="Texto alt"/>
-<h3 className="div-texto-h3-slider1">Memórias Póstumas De Brás Cubas</h3>
-<h4 className="div-texto-h4-slider2">Machado De Assis</h4>
-</Link>
 
 
 <Link to="/Livro11" className ="img-div-slider13">

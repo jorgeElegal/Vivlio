@@ -1,7 +1,7 @@
-import React, { useRef, useState, useEffect } from "react";
+import React, { useRef, useState, useEffect, useCallback } from "react";
 
-import { ReactReader, ReactReaderStyle } from "react-reader";
-import Ebook from "./a divina comedia.epub";
+import { ReactReader, ReactReaderStyle, EpubView } from "react-reader";
+import Ebook from "../helena/helena.epub";
 
 const ownStyles = {
   ...ReactReaderStyle,
@@ -11,27 +11,20 @@ const ownStyles = {
   }
 };
 
-//const loc = "epubcfi(/6/4[chapter1]!/4/2[chapter1]/8[s3]/6/1:490)";
-const loc = null;
+const loc = "epubcfi(/6/4[chapter1]!/4/2[chapter1]/8[s3]/6/1:0)";
 
 function Appview1() {
   const [selections, setSelections] = useState([]);
   const renditionRef = useRef(null);
+  const [percent, setPercent] = useState(0);
 
-  const [location, setLocation] = useState(loc);
-  const locationChanged = (epubcifi) => {
-    // epubcifi is a internal string used by epubjs to point to a location in an epub. It looks like this: epubcfi(/6/6[titlepage]!/4/2/12[pgepubid00003]/3:0)
-    setLocation(epubcifi);
-    console.log(location);
-  };
-
-  // setSelections([
-  //   {
-  //     text:
-  //       "In previous generations, people often believed that business transactions were immo",
-  //     cfiRange: "epubcfi(/6/4[chapter1]!/4/2[chapter1]/4[s1]/6,/1:0,/1:83)"
-  //   }
-  // ]);
+  const handleLocationChanged = useCallback(
+    (epubcifi) => {
+      const percent = ((epubcifi.start / epubcifi.total) * 100).toFixed(1);
+      setPercent(percent);
+    },
+    [setPercent]
+  );
 
   useEffect(() => {
     if (renditionRef.current) {
@@ -66,8 +59,9 @@ function Appview1() {
     <>
       <div className="App" style={{ position: "relative", height: "100vh" }}>
         <ReactReader
-          location={location}
-          locationChanged={locationChanged}
+          
+         
+          locationChanged={handleLocationChanged}
           url={Ebook}
           styles={ownStyles}
           getRendition={(rendition) => {
@@ -79,7 +73,11 @@ function Appview1() {
             });
             setSelections([]);
           }}
+          
         />
+          
+         
+          
       </div>
       <div
         style={{
@@ -122,3 +120,5 @@ function Appview1() {
 }
 
 export default Appview1
+
+

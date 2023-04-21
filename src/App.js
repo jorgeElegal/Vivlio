@@ -14,6 +14,8 @@ import L6 from '../src/fernao1/o alienista';
 import L7 from '../src/fernao1/os sertões';
 import L8 from '../src/fernao1/poema ironicos venenosos e atiricos';
 import L9 from '../src/fernao1/volta ao mundo em 80 dias';
+import L10 from '../src/fernao1/Dom casmurro';
+import L11 from '../src/fernao1/noite na taverna';
 import O from '../src/fernao1/o-pequeno-principe';
 import Autores1 from '../src/fernao1/PaginaAutores/autor1.js';
 import Livro1 from '../src/fernao1/PaginasLivros/livromachdomemoriaspostulasd.js';
@@ -37,7 +39,7 @@ function App() {
 
 <Route path="/" element={<Home/>} />
 <Route path="/FernaoCapeloGaivota/ler" element={<FernãoC/>} />
-<Route path="/MemoriasPostumas/ler" element={<Mpostunas/>} />
+<Route path="/L0" element={<Mpostunas/>} />
 <Route path="/OPequenoPrincipe/ler" element={<O/>} />
 <Route path="/MachadodeAssis" element={<Autores1/>} />
 <Route path="/L1" element={<L1/>} />
@@ -49,6 +51,8 @@ function App() {
 <Route path="/L7" element={<L7/>} />
 <Route path="/L8" element={<L8/>} />
 <Route path="/L9" element={<L9/>} />
+<Route path="/L10" element={<L10/>} />
+<Route path="/L11" element={<L11/>} />
 <Route path="/Livro1" element={<Livro1/>} />
 <Route path="/Livro2" element={<Livro2/>} />
 <Route path="/Livro3" element={<Livro3/>} />
