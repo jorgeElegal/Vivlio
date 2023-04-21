@@ -1,7 +1,7 @@
 import {useState, useEffect, useRef} from 'react'
 
 import LogoeFooter from '../home/Logo e Footer.js';
-import Footer from '../home/Footer.js';
+
 import { Link } from 'react-router-dom';
 import imagebooks3 from '../home/img/14.png';
 
