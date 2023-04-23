@@ -9,11 +9,11 @@ import './Livro1.css';
 
 const allbooks =[imagebooks3, ];
 var NomeDoLivro ="Noite na Taverna"
-var ResumoDaObra ="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-var Repertorio ="oi"
-var NumeroDePagina ="190"
+var ResumoDaObra ="Noite na Taverna é uma coletânea de contos do escritor brasileiro Álvares de Azevedo, publicada em 1855. Os contos são narrados por um grupo de amigos que se reúne em uma taverna para contar histórias de amor, morte, loucura e sobrenatural. A obra é marcada por um tom melancólico e uma estética gótica e romântica, influenciada pela literatura europeia da época. Os contos retratam personagens que vivem à margem da sociedade e que se entregam a paixões intensas e autodestrutivas. Com uma linguagem poética e uma atmosfera sombria, Noite na Taverna é considerada uma das obras mais importantes da literatura brasileira do século XIX."
+var Repertorio ="O movimento Romântico; A morte e a finitude; A condição feminina; A religiosidade e a superstição."
+
 var AutorD="Álvares de Azevedo"
-var Categoria ="oi"
+var Categoria ="Romantismo"
 var DisponibilizadoPor ="[ua] Universidde da Amazonia"
 
 function Livro1() {
@@ -53,7 +53,7 @@ function Livro1() {
        <div className="Autor-autor-quadro1"> 
 
        <div className="Autor-autor-quadro1-divDoH1"><h1 className="Autor-autor-quadro-h010">{NomeDoLivro}</h1> </div>
-       <div className="div-buttom">  <Link to="L11" > <button className="Autor-div-imagem-buttom">ler</button>
+       <div className="div-buttom">  <Link to="/L11" > <button className="Autor-div-imagem-buttom">ler</button>
        </Link> </div>
 
      
@@ -64,8 +64,7 @@ function Livro1() {
 
 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Autor: </h1> {AutorD}</p>     
-<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Gênero: </h1> {Categoria}</p> 
-<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">N° de páginas: </h1> {NumeroDePagina} </p>
+<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Categoria: </h1> {Categoria}</p> 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Disponibilizado por: </h1> {DisponibilizadoPor}</p> 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Repertório sociocultural: </h1> {Repertorio}</p>   
    </div>

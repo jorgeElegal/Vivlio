@@ -9,11 +9,10 @@ import './Livro1.css';
 
 const allbooks =[imagebooks3, ];
 var NomeDoLivro ="Memórias Postumas de Brás Cubas"
-var ResumoDaObra ="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-var Repertorio ="oi"
-var NumeroDePagina ="190"
+var ResumoDaObra ="Memórias Póstumas de Brás Cubas é um romance do escritor brasileiro Machado de Assis, publicado em 1881. A obra é narrada por Brás Cubas, um defunto-autor que conta suas memórias a partir de sua morte. Com um tom irônico e satírico, Brás Cubas narra sua vida, descrevendo suas ambições, conquistas, falhas e relacionamentos amorosos. O livro é uma sátira da sociedade brasileira da época e aborda temas como a corrupção, a hipocrisia e a vaidade humana. Com uma estrutura narrativa inovadora para a época, a obra é considerada uma das principais do Realismo brasileiro."
+var Repertorio ="a falta de mobilidade social e as relações de poder na sociedade do seculo XIX; Reflexão sobre a vida e a morte, com ironia e o humor ácido; Caracterização dos personagens de forma irônica e satírica; Abordagem de temas como a hipocrisia, a corrupção e a desigualdade social."
 var AutorD="Machado de Assis"
-var Categoria ="Realismo"
+var Categoria ="Realismo; Naturalismo"
 var DisponibilizadoPor ="[bn] Fundação Biblioteca Nacional"
 
 function Livro1() {
@@ -64,8 +63,7 @@ function Livro1() {
 
 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Autor: </h1> {AutorD}</p>     
-<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Gênero: </h1> {Categoria}</p> 
-<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">N° de páginas: </h1> {NumeroDePagina} </p>
+<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Categoria: </h1> {Categoria}</p> 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Disponibilizado por: </h1> {DisponibilizadoPor}</p> 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Repertório sociocultural: </h1> {Repertorio}</p>   
    </div>

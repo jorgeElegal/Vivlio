@@ -9,11 +9,11 @@ import './Livro1.css';
 
 const allbooks =[imagebooks3, ];
 var NomeDoLivro ="A Mão e a Luva"
-var ResumoDaObra ="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-var Repertorio ="oi"
-var NumeroDePagina ="190"
+var ResumoDaObra ="A Mão e a Luva é um romance escrito por Machado de Assis e publicado em 1874. A história gira em torno de Guiomar, uma jovem elegante e rica que é cortejada por três homens de diferentes origens sociais: Estêvão, um jovem estudante de direito; Jorge, um nobre com pouco dinheiro; e Luís Alves, um rico fazendeiro. A narrativa é uma análise da sociedade carioca do século XIX, suas convenções e hipocrisias, e explora as complexas relações entre homens e mulheres, amor e interesse."
+
+var Repertorio =" A sociedade carioca do século XIX; O papel da mulher na sociedade patriarcal; O conflito entre amor e interesse; O estilo literário de Machado de Assis."
 var AutorD="Machado De Assis"
-var Categoria ="oi"
+var Categoria ="Realismo; Naturalismo"
 var DisponibilizadoPor ="[bn] Fundação Biblioteca Nacional"
 
 function Livro1() {
@@ -64,8 +64,7 @@ function Livro1() {
 
 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Autor: </h1> {AutorD}</p>     
-<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Gênero: </h1> {Categoria}</p> 
-<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">N° de páginas: </h1> {NumeroDePagina} </p>
+<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Categoria: </h1> {Categoria}</p> 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Disponibilizado por: </h1> {DisponibilizadoPor}</p> 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Repertório sociocultural: </h1> {Repertorio}</p>   
    </div>

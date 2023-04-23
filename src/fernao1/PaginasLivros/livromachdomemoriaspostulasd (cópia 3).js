@@ -9,11 +9,10 @@ import './Livro1.css';
 
 const allbooks =[imagebooks3, ];
 var NomeDoLivro ="Poema Irônicos Venenosos e Sarcásticos"
-var ResumoDaObra ="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-var Repertorio ="oi"
-var NumeroDePagina ="190"
+var ResumoDaObra ="Poemas Irônicos Venenosos e Sarcásticos é uma coleção póstuma de poemas de Álvares de Azevedo, um importante autor do romantismo brasileiro. Os poemas desta coleção expressam o humor mordaz e o senso de ironia do autor, muitas vezes retratando a sociedade brasileira do século XIX de forma crítica e satírica. Através de sua poesia, Azevedo questiona a moralidade e as convenções sociais da época, ao mesmo tempo em que celebra a liberdade individual e a paixão. A obra é uma importante contribuição para a poesia brasileira e uma reflexão sobre a natureza humana e a condição social."
+var Repertorio ="Crítica social e política, utilizando recursos literários como a ironia, o sarcasmo e o humor negro; Reflexão sobre a condição humana, a hipocrisia e a moralidade; Abordagem de temas como a corrupção, a injustiça social e a luta de classes; Uso de figuras de linguagem, como metáforas e antíteses, para enfatizar a crítica e a sátira presente nos poemas."
 var AutorD="Álvares de Azevedo"
-var Categoria ="Romantismo"
+var Categoria ="Romantismo."
 var DisponibilizadoPor ="[ua] Universidde da Amazonia"
 
 function Livro1() {
@@ -64,8 +63,7 @@ function Livro1() {
 
 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Autor: </h1> {AutorD}</p>     
-<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Gênero: </h1> {Categoria}</p> 
-<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">N° de páginas: </h1> {NumeroDePagina} </p>
+<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Categoria: </h1> {Categoria}</p> 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Disponibilizado por: </h1> {DisponibilizadoPor}</p> 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Repertório sociocultural: </h1> {Repertorio}</p>   
    </div>

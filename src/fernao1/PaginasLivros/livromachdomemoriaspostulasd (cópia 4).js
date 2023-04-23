@@ -9,11 +9,12 @@ import './Livro1.css';
 
 const allbooks =[imagebooks3, ];
 var NomeDoLivro ="A Divina Comédia"
-var ResumoDaObra ="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-var Repertorio ="oi"
-var NumeroDePagina ="190"
+var ResumoDaObra ="A Divina Comédia é uma obra épica do escritor italiano Dante Alighieri, escrita no início do século XIV. A obra é dividida em três partes: Inferno, Purgatório e Paraíso, e narra a jornada de Dante através dos nove círculos do Inferno, os sete degraus do Purgatório e as esferas do Paraíso, guiado pelo poeta romano Virgílio e pela amada Beatriz. Durante a jornada, Dante encontra diversas figuras históricas e mitológicas, que são punidas ou recompensadas de acordo com suas ações em vida, e reflete sobre temas como pecado, redenção, amor e a natureza divina. Com uma linguagem poética e simbólica, A Divina Comédia é considerada uma das obras mais importantes da literatura mundial e um dos maiores tesouros da cultura italiana."
+
+var Repertorio =" A cultura medieval; A representação do inferno, purgatório e paraíso; A influência da obra na cultura ocidental; O estilo literário de Dante Alighieri. "
+
 var AutorD="Dante Alighieri"
-var Categoria ="oi"
+var Categoria ="Renascimento italiano; Classicismo."
 var DisponibilizadoPor ="[eb] EbooksBrasil"
 
 function Livro1() {
@@ -64,8 +65,7 @@ function Livro1() {
 
 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Autor: </h1> {AutorD}</p>     
-<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Gênero: </h1> {Categoria}</p> 
-<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">N° de páginas: </h1> {NumeroDePagina} </p>
+<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Categoria: </h1> {Categoria}</p> 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Disponibilizado por: </h1> {DisponibilizadoPor}</p> 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Repertório sociocultural: </h1> {Repertorio}</p>   
    </div>

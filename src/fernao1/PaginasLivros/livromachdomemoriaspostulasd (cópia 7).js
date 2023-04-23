@@ -9,11 +9,10 @@ import './Livro1.css';
 
 const allbooks =[imagebooks3, ];
 var NomeDoLivro ="Dom Casmurro"
-var ResumoDaObra ="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-var Repertorio ="oi"
-var NumeroDePagina ="190"
+var ResumoDaObra ="Dom Casmurro é um romance escrito por Machado de Assis e publicado em 1899. A história é narrada por Bento Santiago, também conhecido como Dom Casmurro, um homem idoso que relembra seu passado e conta sobre seu relacionamento com a jovem Capitu. Bento é atormentado pela dúvida de se o filho que criou com Capitu, Ezequiel, é realmente seu filho biológico ou se é fruto de uma traição de Capitu com seu melhor amigo, Escobar. A trama é cheia de elementos psicológicos e críticas à sociedade da época."
+var Repertorio =" A sociedade brasileira do século XIX; A representação da mulher na literatura; A questão da paternidade; O estilo literário de Machado de Assis."
 var AutorD="Machado De Assis"
-var Categoria ="oi"
+var Categoria ="Realismo; Naturalismo"
 var DisponibilizadoPor ="[bn] Fundação Biblioteca Nacional"
 
 function Livro1() {
@@ -64,8 +63,7 @@ function Livro1() {
 
 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Autor: </h1> {AutorD}</p>     
-<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Gênero: </h1> {Categoria}</p> 
-<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">N° de páginas: </h1> {NumeroDePagina} </p>
+<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Categoria: </h1> {Categoria}</p> 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Disponibilizado por: </h1> {DisponibilizadoPor}</p> 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Repertório sociocultural: </h1> {Repertorio}</p>   
    </div>

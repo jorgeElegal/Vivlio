@@ -210,7 +210,7 @@ setWidth(carossel.current?.scrollWidth - carossel.current?.offsetWidth)
 <Link to="/Livro10" className ="img-div-slider13">
 <img src={imagebooks15}alt="Texto alt"/>
 <h3 className="div-texto-h3-slider1">A Mão e Luva</h3>
-<h4 className="div-texto-h4-slider2">Machado De Assis</h4>
+<h4 className="div-texto-h4-slider2">Machado De Assis</h4> 
 </Link>
 
 <Link to="Livro4" className ="img-div-slider13">

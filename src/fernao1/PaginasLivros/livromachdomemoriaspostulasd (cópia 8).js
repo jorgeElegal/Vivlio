@@ -10,11 +10,10 @@ import './Livro1.css';
 
 const allbooks =[imagebooks3, ];
 var NomeDoLivro ="Esaú e Jacó"
-var ResumoDaObra ="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-var Repertorio ="oi"
-var NumeroDePagina ="190"
+var ResumoDaObra ="Essaú e Jacó é um romance do escritor brasileiro Machado de Assis, publicado em 1904. A história se passa no Rio de Janeiro do século XIX e acompanha a trajetória dos gêmeos Pedro e Paulo, filhos de uma família de classe média, desde a infância até a vida adulta. O livro aborda temas como a política, a religião, a família e a sociedade, além de explorar a dualidade dos personagens principais, representando as figuras bíblicas de Esaú e Jacó. O romance é considerado uma das obras-primas de Machado de Assis e da literatura brasileira."
+var Repertorio =" A sociedade brasileira do século XIX; A crítica à monarquia brasileira; A questão da identidade nacional; O estilo literário de Machado de Assis."
 var AutorD="Machado De Assis"
-var Categoria ="oi"
+var Categoria ="Realismo; Naturalismo"
 var DisponibilizadoPor ="[bn] Fundação Biblioteca Nacional"
 
 function Livro1() {
@@ -65,8 +64,7 @@ function Livro1() {
 
 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Autor: </h1> {AutorD}</p>     
-<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Gênero: </h1> {Categoria}</p> 
-<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">N° de páginas: </h1> {NumeroDePagina} </p>
+<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Categoria: </h1> {Categoria}</p> 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Disponibilizado por: </h1> {DisponibilizadoPor}</p> 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Repertório sociocultural: </h1> {Repertorio}</p>   
    </div>

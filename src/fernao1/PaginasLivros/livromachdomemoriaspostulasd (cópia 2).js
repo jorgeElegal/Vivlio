@@ -9,11 +9,10 @@ import './Livro1.css';
 
 const allbooks =[imagebooks3, ];
 var NomeDoLivro ="O Alienista"
-var ResumoDaObra ="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-var Repertorio ="oi"
-var NumeroDePagina ="190"
+var ResumoDaObra ="O Alienista é uma novela escrita por Machado de Assis, publicada originalmente em 1882. A história se passa na cidade fictícia de Itaguaí, onde o médico Simão Bacamarte decide construir um hospício para tratar os loucos da região. Porém, sua busca por um método científico de diagnóstico e cura acaba levando-o a internar não só os doentes mentais, mas também pessoas sãs que não se encaixam nas normas sociais. Com uma linguagem irônica e satírica, a obra discute a questão da sanidade mental e das verdades absolutas, criticando a sociedade brasileira da época."
+var Repertorio ="A sociedade brasileira do século XIX; A representação da mulher na literatura; A questão da paternidade; O estilo literário de Machado de Assis."
 var AutorD="Machado de Assis"
-var Categoria ="Realismo"
+var Categoria ="Realismo."
 var DisponibilizadoPor ="[bn] Fundação Biblioteca Nacional"
 
 function Livro1() {
@@ -64,8 +63,7 @@ function Livro1() {
 
 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Autor: </h1> {AutorD}</p>     
-<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Gênero: </h1> {Categoria}</p> 
-<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">N° de páginas: </h1> {NumeroDePagina} </p>
+<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Categoria: </h1> {Categoria}</p> 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Disponibilizado por: </h1> {DisponibilizadoPor}</p> 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Repertório sociocultural: </h1> {Repertorio}</p>   
    </div>

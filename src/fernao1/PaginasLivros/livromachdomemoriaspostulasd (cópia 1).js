@@ -9,11 +9,10 @@ import './Livro1.css';
 
 const allbooks =[imagebooks3, ];
 var NomeDoLivro ="A volta ao mundo em 80 dias"
-var ResumoDaObra ="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-var Repertorio ="oi"
-var NumeroDePagina ="190"
+var ResumoDaObra ="Volta ao Mundo em 80 Dias é um romance de aventura do escritor francês Júlio Verne, publicado em 1873. A história acompanha o excêntrico e rico inglês Phileas Fogg, que faz uma aposta de que é possível dar a volta ao mundo em 80 dias e embarca em uma viagem emocionante pelo globo terrestre, acompanhado por seu fiel empregado francês, Passepartout. Durante a jornada, eles enfrentam diversos obstáculos e aventuras, incluindo perseguições, naufrágios e levantes políticos, enquanto tentam cumprir o desafio a tempo. Com uma narrativa cheia de suspense e detalhes sobre os lugares visitados, Volta ao Mundo em 80 Dias é um clássico da literatura de aventura e uma das obras mais famosas de Júlio Verne."
+var Repertorio ="A influência da Revolução Industrial na sociedade britânica; Representação do Oriente na literatura ocidental; A tensão entre tradição e modernidade; A questão da identidade nacional"
 var AutorD="Júlio Verne"
-var Categoria ="oi"
+var Categoria ="Romantismo."
 var DisponibilizadoPor ="[ph] Phoenix-Library"
 
 function Livro1() {
@@ -64,8 +63,7 @@ function Livro1() {
 
 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Autor: </h1> {AutorD}</p>     
-<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Gênero: </h1> {Categoria}</p> 
-<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">N° de páginas: </h1> {NumeroDePagina} </p>
+<p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Categoria: </h1> {Categoria}</p> 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Disponibilizado por: </h1> {DisponibilizadoPor}</p> 
 <p className="texto-quadro-de-informaçoes"><h1 className="texto-quadro-de-informaçoesh111">Repertório sociocultural: </h1> {Repertorio}</p>   
    </div>
