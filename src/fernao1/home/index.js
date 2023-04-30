@@ -180,7 +180,7 @@ setWidth(carossel.current?.scrollWidth - carossel.current?.offsetWidth)
 
 <div className="div-texto-slider-22222">
 <h2 className="div-texto-h2-22222">Litertura braileira</h2>
-<h3 className="div-texto-h3-22222">Do Realimo ao Romantismo</h3>
+<h3 className="div-texto-h3-22222">Do Romantismo do Realismo</h3>
  </div>
 
 

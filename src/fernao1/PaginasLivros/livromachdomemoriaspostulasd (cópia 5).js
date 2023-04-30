@@ -11,9 +11,9 @@ const allbooks =[imagebooks3, ];
 var NomeDoLivro ="Os Sertões"
 var ResumoDaObra ="Os Sertões é uma obra do escritor brasileiro Euclides da Cunha, publicada em 1902. Trata-se de uma narrativa histórica, sociológica e filosófica sobre a Guerra de Canudos, conflito ocorrido no interior da Bahia entre 1896 e 1897, que culminou na destruição do arraial de Canudos e na morte de milhares de pessoas. A obra é dividida em três partes: A Terra, que apresenta uma descrição geográfica e histórica do sertão baiano; O Homem, que aborda a formação da cultura sertaneja e os motivos que levaram à formação do arraial de Canudos; e A Luta, que descreve os acontecimentos da guerra em si. A obra é considerada uma das mais importantes da literatura brasileira e influenciou diversos escritores, artistas e pensadores."
 var Repertorio ="A Guerra de Canudos; A questão da identidade nacional; A descrição do sertão brasileiro; O estilo literário de Euclides da Cunha."
-var AutorD="Eucldes Da Cunha"
+var AutorD="Euclides Da Cunha"
 var Categoria ="Naturalismo; Modernismo."
-var DisponibilizadoPor ="oi"
+var DisponibilizadoPor ="[bn] Fundação Biblioteca Nacional"
 
 function Livro1() {
 
